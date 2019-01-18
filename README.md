@@ -1,11 +1,4 @@
-# Portfolio
+# Personal Website
 
-Inspired by [Dylan Modesitt](https://www.dylanmodesitt.com)
+This site redirects to [snapshotsofharmony.net](https://www.snapshotsofharmony.net)
 
-### Credits 
-
-- fullPage.js
-- jQuery
-- Bootstrap 4
-- Google Fonts - Raleway 
-- FontAwesome
