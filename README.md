@@ -1,4 +1,3 @@
 # Personal Website
 
-This site redirects to [snapshotsofharmony.net](https://www.snapshotsofharmony.net)
-
+This site redirects to [torva.run](https://torva.run)
